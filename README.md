@@ -2,7 +2,7 @@
 
 ## Features
 - Task creation & management
-- Deadline tracking
+-Pending showing feature
 - User-based tasks
 
 ## Tech Stack
@@ -15,3 +15,7 @@
 2. Setup database
 3. Configure config/db.php
 4. Run on localhost
+
+## 🔗 Live Demo
+👉 https://soumyadipta.travarsa.online/task_scheduler/
+
