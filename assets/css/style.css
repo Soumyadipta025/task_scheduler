@@ -1,0 +1,57 @@
+/* ================= HERO SECTION ================= */
+.hero-section {
+    height: 60vh;
+    background-image: url('../background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+
+/* Paragraph text */
+.hero-section p {
+    font-size: 1.2rem;
+}
+.dashboard-bg {
+    background-image: url("/assets/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding-top: 1px;
+}
+
+/* Table container */
+.table {
+    background: linear-gradient(135deg, #963838, #6b7c9e);
+    border-radius: 12px;
+    overflow: -moz-hidden-unscrollable;
+}
+
+/* Table header gradient */
+.table thead th {
+    background: linear-gradient(135deg, #1f2933, #111827);
+    color: #ffffff;
+    border: none;
+}
+
+/* Table rows */
+.table tbody tr {
+    background: linear-gradient(135deg, #ffffff, #f9fafb);
+}
+
+
+/* Table cells */
+.table td, .table th {
+    padding: 14px;
+    vertical-align: middle;
+}
+
+/* ================= ANIMATED HEADING UNDERLINE ================= */
+
+.section-title {
+    position: relative;
+    display: inline-block;
+    padding-bottom: 12px;
+}
+
